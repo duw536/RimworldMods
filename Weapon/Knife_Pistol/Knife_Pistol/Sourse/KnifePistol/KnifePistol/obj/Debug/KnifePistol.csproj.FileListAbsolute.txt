@@ -1,7 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Sourse\KnifePistol\KnifePistol\obj\Debug\KnifePistol.csproj.AssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Sourse\KnifePistol\KnifePistol\obj\Debug\KnifePistol.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Assemblies\KnifePistolMod.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Assemblies\KnifePistolMod.pdb
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Sourse\KnifePistol\KnifePistol\obj\Debug\KnifePis.C81B8EE5.Up2Date
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Sourse\KnifePistol\KnifePistol\obj\Debug\KnifePistolMod.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Knife_Pistol\Sourse\KnifePistol\KnifePistol\obj\Debug\KnifePistolMod.pdb
